@@ -19,8 +19,8 @@ This is an 8-bit computer I am building using the components in Ben Eater's kit,
 
 ## Demo
 
-![Bistable clock](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Clock circuits](https://github.com/LayanJethwa/8-bit-computer/blob/main/clock%20circuits.mp4)
+![Bistable clock](https://github.com/LayanJethwa/8-bit-computer/blob/main/bistable%20clock.gif)
+![Clock circuits](https://github.com/LayanJethwa/8-bit-computer/blob/main/clock%20circuits.gif)
 
 
 ## Acknowledgements
