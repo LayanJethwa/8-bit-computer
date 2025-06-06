@@ -13,14 +13,14 @@ This is an 8-bit computer I am building using the components in Ben Eater's kit,
 
 ## Photos
 
-![Clock](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Register 1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Register 2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Clock](https://github.com/LayanJethwa/8-bit-computer/blob/main/clock.jpg)
+![Register 1](https://github.com/LayanJethwa/8-bit-computer/blob/main/register1.jpg)
+![Register 2](https://github.com/LayanJethwa/8-bit-computer/blob/main/register2.jpg)
 
 ## Demo
 
 ![Bistable clock](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-![Clock circuits](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Clock circuits](https://github.com/LayanJethwa/8-bit-computer/blob/main/clock%20circuits.mp4)
 
 
 ## Acknowledgements
